@@ -9,7 +9,7 @@
 
 **Name:** 1999-2015 U.S. Income Tax Records by ZIP Code
 
-**Data Citation:** Internal Revenue Service. (2017). 1999-2015 Individual Income Tax ZIP Code Data [Data files, user guide and record layout]. Retrieved from [https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi)
+**Data Citation:** Internal Revenue Service. (2017). 1999-2015 Individual Income Tax ZIP Code Data [Data files, user guide and record layout]. Retrieved from [https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi). Date accessed Sept. 9, 2017.
 
 **License/Terms of Use:** This dataset contains aggregate, non-personalized information that is owned and maintained by the federal government. A thorough review of the IRS.gov tax statistics section, IRS FOIA section and site privacy policy revealed no restrictions on its use.
 
@@ -29,7 +29,7 @@
 
 **Name:** Department of Health and Mental Hygiene New York City Restaurant Inspection Results
 
-**Data Citation:** Department of Health and Mental Hygiene (NYC DOHMH). (2017). DOHMH New York City Restaurant Inspection Results [Data files, open data dictionary]. Retrieved from [https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
+**Data Citation:** Department of Health and Mental Hygiene (NYC DOHMH). (2017). DOHMH New York City Restaurant Inspection Results [Data files, open data dictionary]. Retrieved from [https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j). Date accessed Sept. 9, 2017.
 
 **License/Terms of Use:** According to the DOHMH website and New York City’s OpenData website, the “license for this dataset is unspecified.”
 
@@ -49,7 +49,7 @@
 
 **Name:** Global Terrorism Database (GTD)
 
-**Data Citation:** National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2017). Global Terrorism Database [Data files, codebook, terms of use]. Retrieved from [https://www.start.umd.edu/gtd](https://www.start.umd.edu/gtd)
+**Data Citation:** National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2017). Global Terrorism Database [Data files, codebook, terms of use]. Retrieved from [https://www.start.umd.edu/gtd](https://www.start.umd.edu/gtd). Date accessed Sept. 9, 2017.
 
 **License/Terms of Use:** Use of the GTD is governed by a detailed [“Terms of Use” document](http://apps.start.umd.edu/gtd/downloads/dataset/TermsofUse.pdf) that gives the users “non-exclusive, non-guaranteed right to search, browse and view.” It also demands that any information from the database be cited with an APA data citation.
 
